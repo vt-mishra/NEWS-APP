@@ -1,0 +1,21 @@
+#navbarNav{
+    color: rgb(50, 56, 56);
+    background-color:rgb(163, 161, 161);
+}
+.navbar-brand{
+    background-color:rgb(675,6,78);
+    font-weight:bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    
+}
+.nav-link{
+   
+    font-weight:bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    
+}
+.nav-link:hover{
+   color: #fff;
+}
